@@ -1,0 +1,6 @@
+logging:
+  level: "INFO"
+
+tts:
+  # Suchbegriffe für die Stimme (z.B. "german", "english", "hedda")
+  language_search: "german"
